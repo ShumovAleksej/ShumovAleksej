@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi 👋
+Я начинающий Python программист, всего несколько месяцев, но у меня большое желание учиться и развивать навыки. 
 
-<!--
-**ShumovAleksej/ShumovAleksej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technical Stack
+*   Python
+*   Django, SQLAlchemy
+*   PostgreSQL, SQlite
+*   Скрапинг, парсинг
+*   GitHub, Git
 
-Here are some ideas to get you started:
+### My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   [Парсер](https://github.com/ShumovAleksej/pars/tree/master/parser/my_pars_scpfond) - Я только в начале своего пути в теме парсинга. Парсер сайта scpfoundation.net
+*   [SQLAlchemy+FastAPI+SQLite project](https://github.com/ShumovAleksej/SQLAlchemyAuthorBook)
+*   [DjangoProject](https://github.com/ShumovAleksej/DjangoProject1) 
+
