@@ -10,7 +10,7 @@
 
 ### My projects
 
-*   [Парсер](https://github.com/ShumovAleksej/pars/tree/master/parser/my_pars_scpfond) - Я только в начале своего пути в теме парсинга. Парсер сайта scpfoundation.net
+*   [Django Project](https://github.com/ShumovAleksej/DjangoProject1) - **Основной Проект**
+*   [Парсер](https://github.com/ShumovAleksej/pars/tree/master/parser/my_pars_scpfond)
 *   [SQLAlchemy+FastAPI+SQLite project](https://github.com/ShumovAleksej/SQLAlchemyAuthorBook)
-*   [DjangoProject](https://github.com/ShumovAleksej/DjangoProject1) 
 
